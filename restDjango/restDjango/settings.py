@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'firstDjango',
         'USER':'postgres',
-        'PASSWORD':'Mobile21!',
+        
         'HOST':'localhost',
         'PORT':'5432'
     }
